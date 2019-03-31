@@ -1,2 +1,2 @@
 # Code-Of-Conduct
-Code of Conduct to be followed by Everyone
+To be followed by Everyone
