@@ -17,3 +17,6 @@ In the interest of cultivating an open and welcoming environment, we as members 
 * Public or private harassment, trolling, insulting/derogatory comments, and personal or political attacks
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
+
+
+*PS : If you believe we are missing something, create a pull request with the suggestion to be added in our Code Of Conduct :)*
