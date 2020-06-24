@@ -19,4 +19,3 @@ In the interest of cultivating an open and welcoming environment, we as members 
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
 
-*PS : If we missed something, please create a pull request with the additions in our Code Of Conduct :)*
